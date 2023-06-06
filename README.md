@@ -1,4 +1,4 @@
-## Example showing how to use react-nunace package
+## Example showing how to use react-nuance package
 
 ## Getting Started
 
