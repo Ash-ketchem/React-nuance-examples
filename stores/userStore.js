@@ -5,6 +5,10 @@ const userStore = create((set) => ({
     name: "ash",
     age: 10,
   },
+  user2: {
+    name: "ash",
+    age: 10,
+  },
   pet: {
     name: "tommy",
   },
@@ -20,6 +24,16 @@ const userStore = create((set) => ({
       return {
         user: {
           ...state.user,
+          name: name,
+        },
+      };
+    }, key);
+  },
+  setUserName2: (name, key) => {
+    set((state) => {
+      return {
+        user2: {
+          ...state.user2,
           name: name,
         },
       };

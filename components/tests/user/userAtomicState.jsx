@@ -1,7 +1,8 @@
 import userStore from "@/stores/userStore";
 
 const Display = ({ id }) => {
-  const userName = userStore((state) => state.user.name, "name");
+  const key = "random_key";
+  const userName = userStore((state) => state.user.name, key);
   const setUserName = userStore((state) => state.setUserName);
 
   return (
@@ -33,7 +34,7 @@ const Display = ({ id }) => {
         <input
           placeholder="enter new name"
           onChange={(e) => {
-            setUserName(e.target.value, "name");
+            setUserName(e.target.value, key);
           }}
         ></input>
         <p>this won't cause an update on the top UserData component</p>

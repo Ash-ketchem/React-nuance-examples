@@ -281,6 +281,162 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
+    },
+    "(app-client)/./components/tests/version3/GroupName.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/tests/version3/GroupName.jsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/tests/version3/GroupName.jsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/tests/version3/GroupName.jsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/tests/version3/SharedName1.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/tests/version3/SharedName1.jsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/tests/version3/SharedName1.jsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/tests/version3/SharedName1.jsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/tests/version3/SharedName2.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/tests/version3/SharedName2.jsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/tests/version3/SharedName2.jsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/tests/version3/SharedName2.jsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/tests/version3/SharedName3.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/tests/version3/SharedName3.jsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/tests/version3/SharedName3.jsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/tests/version3/SharedName3.jsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/tests/version3/groupReactivity/GroupReactivity.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/tests/version3/groupReactivity/GroupReactivity.jsx",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/tests/version3/groupReactivity/GroupReactivity.jsx",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/tests/version3/groupReactivity/GroupReactivity.jsx",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/page:static/chunks/app/page.js"
+        ],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -962,6 +1118,20 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/app/globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/post/Posts.jsx": {
       "id": "(app-client)/./components/tests/post/Posts.jsx",
       "name": "*",
@@ -1010,19 +1180,173 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/home/ash/Desktop/github_projects/Demo_react_nuance/app/globals.css#": {
-      "id": "null",
-      "name": "default",
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/GroupName.jsx": {
+      "id": "(app-client)/./components/tests/version3/GroupName.jsx",
+      "name": "*",
       "chunks": [
-        "static/css/app/layout.css"
-      ]
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
     },
-    "/home/ash/Desktop/github_projects/Demo_react_nuance/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/GroupName.jsx#": {
+      "id": "(app-client)/./components/tests/version3/GroupName.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/GroupName.jsx#default": {
+      "id": "(app-client)/./components/tests/version3/GroupName.jsx",
       "name": "default",
       "chunks": [
-        "static/css/app/layout.css"
-      ]
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/SharedName1.jsx": {
+      "id": "(app-client)/./components/tests/version3/SharedName1.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/SharedName1.jsx#": {
+      "id": "(app-client)/./components/tests/version3/SharedName1.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/SharedName1.jsx#default": {
+      "id": "(app-client)/./components/tests/version3/SharedName1.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/SharedName2.jsx": {
+      "id": "(app-client)/./components/tests/version3/SharedName2.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/SharedName2.jsx#": {
+      "id": "(app-client)/./components/tests/version3/SharedName2.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/SharedName2.jsx#default": {
+      "id": "(app-client)/./components/tests/version3/SharedName2.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/SharedName3.jsx": {
+      "id": "(app-client)/./components/tests/version3/SharedName3.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/SharedName3.jsx#": {
+      "id": "(app-client)/./components/tests/version3/SharedName3.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/SharedName3.jsx#default": {
+      "id": "(app-client)/./components/tests/version3/SharedName3.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/groupReactivity/GroupReactivity.jsx": {
+      "id": "(app-client)/./components/tests/version3/groupReactivity/GroupReactivity.jsx",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/groupReactivity/GroupReactivity.jsx#": {
+      "id": "(app-client)/./components/tests/version3/groupReactivity/GroupReactivity.jsx",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/components/tests/version3/groupReactivity/GroupReactivity.jsx#default": {
+      "id": "(app-client)/./components/tests/version3/groupReactivity/GroupReactivity.jsx",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/node_modules/next/dist/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/node_modules/next/dist/esm/client/link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/node_modules/next/dist/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/node_modules/next/dist/esm/client/link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/node_modules/next/dist/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "/home/ash/Desktop/github_projects/Demo_react_nuance/node_modules/next/dist/esm/client/link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
     }
   }
 }
